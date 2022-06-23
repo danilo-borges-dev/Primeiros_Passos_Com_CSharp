@@ -7,6 +7,11 @@ namespace PrimeiroProjeto
         static void Main(string[] args)
         {
             Console.WriteLine("Olá mundo");
+
+            Console.WriteLine();
+
+            Console.WriteLine("A execução terminou, tecle enter para finalizar");
+            Console.ReadKey();
         }
     }
 }

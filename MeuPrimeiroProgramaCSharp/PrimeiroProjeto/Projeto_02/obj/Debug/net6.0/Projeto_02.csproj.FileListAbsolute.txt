@@ -1,0 +1,15 @@
+C:\CursosAlura\Primeiros_Passos_Com_CSharp\MeuPrimeiroProgramaCSharp\PrimeiroProjeto\Projeto_02\bin\Debug\net6.0\Projeto_02.exe
+C:\CursosAlura\Primeiros_Passos_Com_CSharp\MeuPrimeiroProgramaCSharp\PrimeiroProjeto\Projeto_02\bin\Debug\net6.0\Projeto_02.deps.json
+C:\CursosAlura\Primeiros_Passos_Com_CSharp\MeuPrimeiroProgramaCSharp\PrimeiroProjeto\Projeto_02\bin\Debug\net6.0\Projeto_02.runtimeconfig.json
+C:\CursosAlura\Primeiros_Passos_Com_CSharp\MeuPrimeiroProgramaCSharp\PrimeiroProjeto\Projeto_02\bin\Debug\net6.0\Projeto_02.dll
+C:\CursosAlura\Primeiros_Passos_Com_CSharp\MeuPrimeiroProgramaCSharp\PrimeiroProjeto\Projeto_02\bin\Debug\net6.0\Projeto_02.pdb
+C:\CursosAlura\Primeiros_Passos_Com_CSharp\MeuPrimeiroProgramaCSharp\PrimeiroProjeto\Projeto_02\obj\Debug\net6.0\Projeto_02.csproj.AssemblyReference.cache
+C:\CursosAlura\Primeiros_Passos_Com_CSharp\MeuPrimeiroProgramaCSharp\PrimeiroProjeto\Projeto_02\obj\Debug\net6.0\Projeto_02.GeneratedMSBuildEditorConfig.editorconfig
+C:\CursosAlura\Primeiros_Passos_Com_CSharp\MeuPrimeiroProgramaCSharp\PrimeiroProjeto\Projeto_02\obj\Debug\net6.0\Projeto_02.AssemblyInfoInputs.cache
+C:\CursosAlura\Primeiros_Passos_Com_CSharp\MeuPrimeiroProgramaCSharp\PrimeiroProjeto\Projeto_02\obj\Debug\net6.0\Projeto_02.AssemblyInfo.cs
+C:\CursosAlura\Primeiros_Passos_Com_CSharp\MeuPrimeiroProgramaCSharp\PrimeiroProjeto\Projeto_02\obj\Debug\net6.0\Projeto_02.csproj.CoreCompileInputs.cache
+C:\CursosAlura\Primeiros_Passos_Com_CSharp\MeuPrimeiroProgramaCSharp\PrimeiroProjeto\Projeto_02\obj\Debug\net6.0\Projeto_02.dll
+C:\CursosAlura\Primeiros_Passos_Com_CSharp\MeuPrimeiroProgramaCSharp\PrimeiroProjeto\Projeto_02\obj\Debug\net6.0\refint\Projeto_02.dll
+C:\CursosAlura\Primeiros_Passos_Com_CSharp\MeuPrimeiroProgramaCSharp\PrimeiroProjeto\Projeto_02\obj\Debug\net6.0\Projeto_02.pdb
+C:\CursosAlura\Primeiros_Passos_Com_CSharp\MeuPrimeiroProgramaCSharp\PrimeiroProjeto\Projeto_02\obj\Debug\net6.0\Projeto_02.genruntimeconfig.cache
+C:\CursosAlura\Primeiros_Passos_Com_CSharp\MeuPrimeiroProgramaCSharp\PrimeiroProjeto\Projeto_02\obj\Debug\net6.0\ref\Projeto_02.dll
